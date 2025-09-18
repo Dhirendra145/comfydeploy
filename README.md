@@ -174,3 +174,15 @@ NEXT_PUBLIC_CD_API_URL=http://localhost:3011
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 NEXT_PUBLIC_NGROK_CD_API_URL=https://
 ```
+
+### Cloud Component
+
+```
+Modal
+Neon for db
+Vercel for frontend -> App repo
+Backend for railway / any serverless / stateful server
+Clerk for auth
+Upstash for redis
+AWS S3 for storage
+```
